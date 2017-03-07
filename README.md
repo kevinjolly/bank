@@ -1,2 +1,2 @@
 # bank
-Predicting the drivers for bad loans and credit amount for a leading German Bank 
+Predicting the drivers for bad loans for a leading German Bank 
