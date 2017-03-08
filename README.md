@@ -6,6 +6,7 @@ Objective: One of the leading banks in Germany would like to solve the following
 
 Data Dictionary: 
 Number of variables in the dataset: 21
+
 1.	 Badloan: 
      0: Good Loan
      1: Bad Loan
